@@ -8,7 +8,7 @@ categories:
   - Misc
 excerpt: 全部由GPT生成
 keywords:
-description:
+description: 这是description
 top_img:
 cover:
 toc:
@@ -24,7 +24,7 @@ copyright_info:
 
 
 
-这是摘要！
+这是手动实现的摘要！
 
 <!--more-->
 
