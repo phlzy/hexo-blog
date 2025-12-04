@@ -36,3 +36,26 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+# 测试数学公式
+
+
+$$
+\sum_t \langle \ell_t, x_t - \tilde x_t\rangle
+      \le \sum_t ||\ell_t||_*,|x_t-\tilde x_t|
+      \le \eta D G^2 T.
+$$
+
+## code
+
+``` c++
+#include <bits/stdc++.h>
+using namespace std;
+
+map<int ,int> mp;
+int main(){
+    // *****************
+    return 0;
+}
+```
+
