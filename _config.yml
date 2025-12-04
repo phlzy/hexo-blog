@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: 'sub'
+title: blog blog blog
+subtitle: 
 description: 'description'
 keywords:
 author: Schwarz
@@ -48,7 +48,7 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace: ''
-  wrap: true
+  wrap: false
   hljs: false
 prismjs:
   preprocess: true

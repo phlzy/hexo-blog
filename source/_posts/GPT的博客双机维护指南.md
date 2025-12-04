@@ -6,8 +6,9 @@ tags:
   - blog
 categories:
   - Misc
+excerpt: 全部由GPT生成
 keywords:
-description: 全部由GPT5.1生成
+description:
 top_img:
 cover:
 toc:
@@ -20,6 +21,12 @@ copyright_url:
 copyright_info:
 ---
 
+
+
+
+这是摘要！
+
+<!--more-->
 
 
 我把 **最正确、最稳、不踩坑的双机维护方法** 给你整理一下，让你在两台电脑上随时写作、同步、预览、部署都没有问题。
