@@ -2,8 +2,13 @@
 title: 标签
 date: 2018-01-05 00:00:00
 updated: 2018-01-05 00:00:00
-tags: 测试; test
-categories: 测试; test
+tags:
+  - 优化算法
+  - 在线学习
+  - OCO
+categories:
+  - 测试
+  - 数学
 keywords:
 description:
 top_img:
