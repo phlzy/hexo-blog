@@ -46,6 +46,9 @@ $$
       \le \eta D G^2 T.
 $$
 
+
+行内公式 $\nabla \varepsilon$
+
 ## code
 
 ``` c++
