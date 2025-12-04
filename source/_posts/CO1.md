@@ -3,6 +3,7 @@ title: CO1
 date: 2023-07-18
 tag: [Convex Optimization]
 category: [Convex Optimization]
+mathjax: true
 ---
 
 # 0 绪论
